@@ -1,0 +1,34 @@
+PRAKTIKUM STRUKTUR DATA SEMESTER GASAL 2020/2021
+Pertemuan 03 (14-18 September 2020)
+MODUL STACK
+
+PETUNJUK UNTUK PRAKTIKAN :
+1. Kerjakan sendiri tugas praktikum untuk berlatih. Kompetensi memprogram Anda dipertanggungjawabkan di dunia kerja nanti.
+2. Bila ada tugas kelompok, kerjakan dan tuliskan porsi Anda.
+3. Di dalam setiap file, tuliskan deskripsi program/modul, nama/NIM pembuat, dan tanggal pembuatan
+4. Jadwal praktikum terbatas 2 jam, Anda harus menambah lagi praktikum mandiri minimal 120 menit.
+5. Konsultasikan dengan asisten bila menemui kendala.
+
+AGENDA :
+1. Asisten mendemonstrasikan cara:
+   a. memprogram pintar di file body "*.c" 
+   b. menyimpan dan mengkompilasi modul.
+   c. membuat file driver "m*.c" dan pembangunan projek.
+   d. eksekusi dan penirkutuan program.
+2. Praktikan mengunduh file tugas.
+3. Praktikan mengerjakan tugas praktikum di komputer masing-masing.
+4. Asisten mendampingi praktikan secara bergilir.
+5. Praktikan mengumpulkan laporan penyelesaian tugas.
+6. Asisten melaporkan kendala dan perkembangan belajar praktikan.
+
+DESKRIPSI TUGAS P03 :
+1. Buatlah projek dan folder kerja hari ini dengan format : <nim>_SD03. contoh: 24060119110023_SD03.
+2. Simpanlah file boolean.h, tstack.h ke dalam folder kerja.
+3. Pelajari file header kemudian buatlah realisasi SEBUAH fungsi/prosedur dalam file "tstack.c".
+4. Setiap selesai merealisasikan SEBUAH fungsi/prosedur, buatlah aplikasi dalam file main untuk menguji body yang telah dibuat.
+5. Ulangi langkah 3 dan 4 selama sesi praktikum berlangsung.
+6. Palindrom berarti teks yang bila dibaca dari depan maupun belakang tetap sama, contoh "malam". Di dalam main.c buatlah algoritma yang:
+a. memberi nilai variabel kata, sebuah string (array of character) secara hard coded;
+b. memeriksa apakah string kata tersebut termasuk palindrom, dengan mengaplikasikan modul tstack.
+7. Pada akhir sesi praktikum, laporkan hasil praktikum pada link berikut http://tiny.cc/sd201p 
+8. Kumpulkan(submit) hasil pekerjaan Anda via Kulon.
